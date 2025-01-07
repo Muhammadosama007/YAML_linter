@@ -1,1 +1,1 @@
-printf("osama")
+print("osama")
